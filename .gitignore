@@ -1,0 +1,9 @@
+node_modules
+dist
+.idea
+.history
+.DS_Store
+.vscode/
+test-results/
+reports/
+.vscode/*
