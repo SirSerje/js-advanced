@@ -1,3 +1,4 @@
+// show, how does object.create work
 const a = Object.create(CoffeeMachine)
 console.log(a);
 

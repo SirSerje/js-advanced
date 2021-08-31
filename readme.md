@@ -13,37 +13,12 @@ https://stackoverflow.com/a/15192758/7398502
 
 https://codesandbox.io/s/qqill?file=/src/index.js
 
-ДЗ:
-https://www.codewars.com/kata/56c19316e8b139dff60006da/train/javascript (ответы: https://www.codewars.com/kata/56c19316e8b139dff60006da/solutions)
-
-+ https://www.codewars.com/kata/586a3270c66d18ad810001d4/train/javascript (
-
-```
-Array.prototype.only = function(keys) {
-  const result = []
-  keys.forEach(i => result.push(this[i]) );
-  return result
-}
-```
-
-
-https://www.codewars.com/kata/56d6b921c9ae3fd926000601/train/javascript
-
-https://www.codewars.com/kata/557e508a47c7e9adf9000062/javascript (ответы: https://www.codewars.com/kata/557e508a47c7e9adf9000062/solutions)
-
-+https://www.codewars.com/kata/526471539d52735c620000c6/train/javascript ( ответы: https://www.codewars.com/kata/526471539d52735c620000c6/solutions/javascript) `вставить function`
-
-+https://www.codewars.com/kata/53b2ff49b82af296ce001139/train/javascript
-```
-Array.prototype.reverse = function() {
-const input = this
-var ret = new Array;
-for(var i = input.length-1; i >= 0; i--) {
-ret.push(input[i]);
-}
-return ret;
-};
-```
+### ДЗ:
+1. https://www.codewars.com/kata/53f0f358b9cb376eca001079/train/javascript
+2. https://www.codewars.com/kata/586a3270c66d18ad810001d4/train/javascript 
+3. https://www.codewars.com/kata/557e508a47c7e9adf9000062/javascript 
+4. https://www.codewars.com/kata/526471539d52735c620000c6/train/javascript 
+5. https://www.codewars.com/kata/53b2ff49b82af296ce001139/train/javascript
 
 ## 2. ООП
 - Загальна інформація про ООП
@@ -84,7 +59,6 @@ https://stackoverflow.com/questions/4416317/what-is-the-dom-and-bom-in-javascrip
 - Робота зі стилями
 - Робота з координатами
 
-
 ## 5. Події
 - Введення в браузерні події
 - Порядок обробки подій (Event Loop)
@@ -96,7 +70,7 @@ https://stackoverflow.com/questions/4416317/what-is-the-dom-and-bom-in-javascrip
 - Завантаження документа
 
 
-## 6. Робота з системою контролю версій
+  ## 6. Робота з системою контролю версій
 
 
 ## 7. Формування сторінки в браузері
