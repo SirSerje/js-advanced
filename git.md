@@ -1,0 +1,27 @@
+## 6. Робота з системою контролю версій
+- how to develop together
+- what basically is VCS (version control stystem)
+- Software:д
+  - git (server & client at once)
+  - svn (server & client separated)
+- core concepts:
+  - visualise (back to future) changes in time
+  - adding / removing changes
+  - comitting
+  - merging & conflict resolving
+  - tagging
+- main commands:
+  - add
+  - reset
+  - commit (--amend)
+  - merge
+  - pull
+  - push
+  - reset (hard / soft)
+  - log
+  - stash
+- should I use GUI?
+- flows:
+  - git flow
+  - github flow
+  - other

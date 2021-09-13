@@ -1,0 +1,13 @@
+h1 {
+  font-size: 36px;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  border :1px solid lightgray;  
+}

@@ -29,7 +29,6 @@ https://codesandbox.io/s/qqill?file=/src/index.js
 - UML Diagram
 - Поняття ‘клас’
 
-
 https://scotch.io/tutorials/understanding-javascript-closures-a-practical-approach
 
 https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e - this описан хорошо
@@ -46,7 +45,6 @@ https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e -
 - Что такое [замыкания](https://learn.javascript.ru/closure)?
 - Шаблон проєктування [Singletone](https://stepansuvorov.com/blog/2014/02/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B2-javascript-singleton/) через замикання
 - [Збирач сміття](https://learn.javascript.ru/garbage-collection)
-
 
 ## 4. Глобальний об'єкт Window і робота з DOM
 https://stackoverflow.com/questions/4416317/what-is-the-dom-and-bom-in-javascript
@@ -69,16 +67,13 @@ https://stackoverflow.com/questions/4416317/what-is-the-dom-and-bom-in-javascrip
 - Події з використанням миші, клавіатури і прокрутка
 - Завантаження документа
 
-
-  ## 6. Робота з системою контролю версій
-
+## 6. Робота [з системою контролю версій](./git.md)
 
 ## 7. Формування сторінки в браузері
 - Формування DOM покроково
 - Формування Render Tree
 - Порядок формування CSSOM
 - Оптимізація, мініфікація, робота з Http Cache.
-
 
 ## 8. Способи зберігання даних в браузері
 - Cookies
@@ -88,8 +83,8 @@ https://stackoverflow.com/questions/4416317/what-is-the-dom-and-bom-in-javascrip
 - ServiceWorker
 - Progressive Web Application
 
-
 ## 9. HTTP
+- как [работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
 - Введення в Http протокол
 - Переваги та недоліки протоколу
 - Робота з AJAX
@@ -98,7 +93,3 @@ https://stackoverflow.com/questions/4416317/what-is-the-dom-and-bom-in-javascrip
 - CORS
 - Робота з WebSocket
 - Протокол JSONP
-
-
-как [работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
-
